@@ -1,0 +1,9 @@
+body{
+    background: black;
+}
+.bulat1{
+    color: wheat;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
